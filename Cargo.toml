@@ -1,0 +1,5 @@
+[package]
+
+name = "krusty"
+version = "0.0.1"
+authors = ["Victor Borja <vborja@apache.org>"]
